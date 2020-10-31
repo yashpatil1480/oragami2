@@ -1,0 +1,28 @@
+h1 {
+    color:brown
+
+}
+
+*{
+    border:solid 
+}
+
+.header{
+background-color: cornflowerblue;
+display:flex;
+justify-content: space-between;
+}
+
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end 
+}
+
+.h2,p{
+text-align: center;
+}
